@@ -1,0 +1,138 @@
+body{
+    background-color: #FAFAF6;
+}
+
+.clr{
+ background-color: #A6DCEF;
+}
+
+.container-fluid{
+    padding: 5% 8%;
+}
+
+.cn{
+    text-align: center;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: #3F3D56;
+}
+
+.nav-item{
+    padding: 10px;
+}
+
+.heading1 h1{
+    font-size: 80px;
+    color: #00D1FF;
+}
+
+.sec1img1 img{
+    width: 500px;
+}
+
+.tgln{
+    padding: 10% 0 3%;
+}
+
+.dsln{
+    padding: 10% 0 0 0;
+}
+
+.dsln p{
+    text-align: right;
+}
+
+.dsln img{
+    width: 400px;
+}
+
+.labelled-image{
+    padding: 5% 0;
+}
+
+.body-rw{
+    padding: 5% 0 0;
+}
+
+.labelled-image img{
+    width: 250px;
+}
+
+.lblimg{
+    padding: 0 0 5%;
+}
+
+
+
+h1{
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 800;
+   font-size: 60px;
+   color: #504F60;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #3F3D56;
+}
+
+.clr h1{
+    color: #FAFAF6;
+}
+
+.sec3 .card, .card-header{
+     background-color: #A6DCEF;
+     font-family: 'Poppins', sans-serif;
+     font-weight: 500;
+     font-size: 30px;
+     color: #3F3D56;
+}
+
+.labelled-image-with-subtitle{
+    width: 300px;
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 40px;
+    color: #3F3D56;
+    padding: 3% 0;
+}
+
+.sec6 h1{
+    font-weight: 300;
+}
+
+.sec6 .card{
+    background-color: #FAFAF6;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sec7 h1, i{
+    font-size: 50px;
+}
+
+.sec7 h2{
+    font-size: 30px;
+    color: #3F3D56;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.sec7 img, .gcimg{
+    width: 280px;
+    text-align: right;
+}
+
+footer{
+    padding: 50px 0 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
