@@ -107,6 +107,7 @@ h3{
 
 .sec6 h1{
     font-weight: 300;
+    padding: 0 0 3%;
 }
 
 .sec6 .card{
@@ -136,3 +137,12 @@ footer{
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
+
+.rules{
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: #3F3D56;
+}
+
